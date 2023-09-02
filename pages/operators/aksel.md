@@ -7,6 +7,6 @@ permalink: /operators/aksel/
 description: Some description.
 ---
 
-# Adler
+# Aksel
 
-Base Asset Name: c_t9_usa_pl_adler
+Base Asset Name: aksel_iw9
