@@ -9,4 +9,5 @@ description: Some description.
 
 # Gromsko
 
-Base Asset Name: gromsko_iw9 or tarzan_iw9
+Base Name: gromsko_iw9
+Alt Name:  tarzan_iw9
