@@ -1,12 +1,12 @@
 ---
 layout: operator-cdl
 menu: true
-date: '2022-05-10 01:53:59'
+date: '2023-09-03 15:38:59'
 title: CDL
 permalink: /operators/cdl/
 description: Some description.
 ---
 
-# CDL
+# Zeyna
 
-Base Asset Name: c_t9_gen_pl_esports
+Base Asset Name: _iw9_

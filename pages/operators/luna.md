@@ -1,7 +1,7 @@
 ---
 layout: operator-price
 menu: true
-date: '2023-09-03 15:14:59'
+date: '2021-08-11 01:53:59'
 title: Price
 permalink: /operators/price/
 description: Some description.
@@ -9,4 +9,4 @@ description: Some description.
 
 # Price
 
-Base Asset Name: price_iw9
+Base Asset Name: c_t9_uk_pl_price
