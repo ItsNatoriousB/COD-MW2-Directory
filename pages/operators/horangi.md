@@ -1,12 +1,13 @@
 ---
-layout: operator-lazar
+layout: operator-horangi
 menu: true
-date: '2022-05-10 01:53:59'
-title: Lazar
-permalink: /operators/lazar/
+date: '2023-09-03 16:01:59'
+title: Horangi
+permalink: /operators/horangi/
 description: Some description.
 ---
 
-# Lazar
+# Horangi
 
-Base Asset Name: c_t9_isr_pl_lazar
+Base Asset Name: horangi_iw9 or beta_iw9 or kpop_i9
+Other Asset Names: beta_iw9/kpop_i9/chrome_neon

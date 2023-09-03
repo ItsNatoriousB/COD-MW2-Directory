@@ -1,12 +1,12 @@
 ---
-layout: operator-naga
+layout: operator-klaus
 menu: true
-date: '2021-08-09 01:53:59'
-title: Naga
-permalink: /operators/naga/
+date: '2023-09-03 16:07:59'
+title: Klaus
+permalink: /operators/klaus/
 description: Some description.
 ---
 
-# Naga
+# Klaus
 
-Base Asset Name: c_t9_lao_pl_serpent
+Base Asset Name: klaus_iw9

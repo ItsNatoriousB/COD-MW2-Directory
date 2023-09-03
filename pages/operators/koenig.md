@@ -1,12 +1,12 @@
 ---
-layout: operator-portnova
+layout: operator-koenig
 menu: true
-date: '2021-08-09 01:53:59'
-title: Portnova
-permalink: /operators/portnova/
+date: '2023-09-03 16:15:59'
+title: Koenig
+permalink: /operators/koenig/
 description: Some description.
 ---
 
-# Portnova
+# Koenig
 
-Base Asset Name: c_t9_rus_pl_kgb
+Base Asset Name: koenig_iw9
