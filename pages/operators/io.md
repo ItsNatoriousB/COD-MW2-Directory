@@ -1,12 +1,12 @@
 ---
-layout: operator-maxis
+layout: operator-io
 menu: true
-date: '2021-08-11 01:53:59'
-title: Maxis
-permalink: /operators/maxis/
+date: '2023-09-03 17:47:59'
+title: IO
+permalink: /operators/io/
 description: Some description.
 ---
 
-# Maxis
+# IO
 
-Base Asset Name: c_t9_ger_pl_maxis
+Base Asset Name: blackell_iw9_2_1
