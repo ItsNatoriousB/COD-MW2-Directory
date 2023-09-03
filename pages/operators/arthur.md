@@ -9,4 +9,4 @@ description: Some description.
 
 # Arthur
 
-Base Asset Name: _iw9_
+Base Asset Name: arthur_iw9_1_1
