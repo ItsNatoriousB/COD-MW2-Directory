@@ -1,12 +1,12 @@
 ---
-layout: operator-wraith
+layout: operator-valeria
 menu: true
-date: '2021-08-11 01:53:59'
-title: Wraith
-permalink: /operators/wraith/
+date: '2023-09-03 19:28:59'
+title: Valeria
+permalink: /operators/valeria/
 description: Some description.
 ---
 
-# Wraith
+# Valeria
 
-Base Asset Name: c_t9_fin_pl_wraith
+Base Asset Name: valeria_iw9

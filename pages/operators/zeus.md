@@ -1,12 +1,12 @@
 ---
-layout: operator-zeyna
+layout: operator-zeus
 menu: true
-date: '2021-08-11 01:53:59'
-title: Zeyna
-permalink: /operators/zeyna/
+date: '2023-09-03 19:34:59'
+title: Zeus
+permalink: /operators/zeusa/
 description: Some description.
 ---
 
-# Zeyna
+# Zeus
 
-Base Asset Name: c_t9_fra_pl_dgse
+Base Asset Name: zeus_iw9

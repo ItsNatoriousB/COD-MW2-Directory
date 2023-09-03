@@ -1,12 +1,12 @@
 ---
-layout: operator-zeyna
+layout: operator-zero
 menu: true
-date: '2021-08-11 01:53:59'
-title: Zeyna
-permalink: /operators/zeyna/
+date: '2023-09-03 19:33:59'
+title: Zero
+permalink: /operators/zero/
 description: Some description.
 ---
 
-# Zeyna
+# Zero
 
-Base Asset Name: c_t9_fra_pl_dgse
+Base Asset Name: jinn_iw9 and zero_iw9

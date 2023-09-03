@@ -1,12 +1,12 @@
 ---
-layout: operator-stitch
+layout: operator-oz
 menu: true
-date: '2021-08-09 01:53:59'
-title: Stitch
-permalink: /operators/stitch/
+date: '2023-09-03 19:22:59'
+title: Oz
+permalink: /operators/oz/
 description: Some description.
 ---
 
-# Stitch
+# Oz
 
-Base Asset Name: c_t9_rus_pl_stitch
+Base Asset Name: zoltan_iw9

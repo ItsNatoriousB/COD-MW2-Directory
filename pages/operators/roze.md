@@ -1,12 +1,12 @@
 ---
-layout: operator-weaver
+layout: operator-roze
 menu: true
-date: '2021-08-11 01:53:59'
-title: Weaver
-permalink: /operators/weaver/
+date: '2023-09-03 19:25:59'
+title: Roze
+permalink: /operators/roze/
 description: Some description.
 ---
 
-# Weaver
+# Roze
 
-Base Asset Name: c_t9_usa_pl_weaver
+Base Asset Name: roze_iw9

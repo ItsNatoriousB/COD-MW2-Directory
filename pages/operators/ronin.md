@@ -1,12 +1,12 @@
 ---
-layout: operator-vargas
+layout: operator-ronin
 menu: true
-date: '2021-08-09 01:53:59'
-title: Vargas
-permalink: /operators/vargas/
+date: '2023-09-03 19:23:59'
+title: Ronin
+permalink: /operators/ronin/
 description: Some description.
 ---
 
-# Vargas
+# Ronin
 
-Base Asset Name: c_t9_gen_pl_starter2
+Base Asset Name: ronin_iw9

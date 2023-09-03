@@ -1,12 +1,12 @@
 ---
-layout: operator-zeyna
+layout: operator-unique
 menu: true
-date: '2021-08-11 01:53:59'
-title: Zeyna
-permalink: /operators/zeyna/
+date: '2023-09-03 19:35:59'
+title: Unique
+permalink: /operators/unique/
 description: Some description.
 ---
 
-# Zeyna
+# Unique
 
 Base Asset Name: c_t9_fra_pl_dgse

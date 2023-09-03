@@ -1,12 +1,12 @@
 ---
-layout: operator-rivas
+layout: operator-mace
 menu: true
-date: '2021-08-11 01:53:59'
-title: Rivas
-permalink: /operators/rivas/
+date: '2023-09-03 19:17:59'
+title: Mace
+permalink: /operators/mace/
 description: Some description.
 ---
 
-# Rivas
+# Mace
 
-Base Asset Name: c_t9_nic_pl_smuggler
+Base Asset Name: mace_iw9

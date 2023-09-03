@@ -1,12 +1,12 @@
 ---
-layout: operator-zeyna
+layout: operator-zimo
 menu: true
-date: '2021-08-11 01:53:59'
-title: Zeyna
-permalink: /operators/zeyna/
+date: '2023-09-03 19:35:59'
+title: Zimo
+permalink: /operators/zimo/
 description: Some description.
 ---
 
-# Zeyna
+# Zijmo
 
-Base Asset Name: c_t9_fra_pl_dgse
+Base Asset Name: zimo_iw9

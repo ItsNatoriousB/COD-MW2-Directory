@@ -1,12 +1,12 @@
 ---
-layout: operator-wolf
+layout: operator-soap
 menu: true
-date: '2021-08-11 01:53:59'
-title: Wolf
-permalink: /operators/wolf/
+date: '2023-09-03 19:26:59'
+title: Soap
+permalink: /operators/soap/
 description: Some description.
 ---
 
-# Wolf
+# Soap
 
-Base Asset Name: c_t9_usa_pl_deltaforce
+Base Asset Name: soap_iw9

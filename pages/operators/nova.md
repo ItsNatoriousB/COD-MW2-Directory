@@ -1,12 +1,12 @@
 ---
-layout: operator-song
+layout: operator-nova
 menu: true
-date: '2021-08-09 01:53:59'
-title: Song
-permalink: /operators/song/
+date: '2023-09-03 19:21:59'
+title: Nova
+permalink: /operators/nova/
 description: Some description.
 ---
 
-# Song
+# Nova
 
-Base Asset Name: c_t9_gen_pl_starter4
+Base Asset Name: nova_iw9

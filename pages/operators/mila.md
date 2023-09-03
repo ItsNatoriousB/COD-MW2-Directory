@@ -1,12 +1,12 @@
 ---
-layout: operator-salah
+layout: operator-mila
 menu: true
-date: '2021-08-11 01:53:59'
-title: Salah
-permalink: /operators/salah/
+date: '2023-09-03 19:19:59'
+title: Mila
+permalink: /operators/mila/
 description: Some description.
 ---
 
-# Salah
+# Mila
 
-Base Asset Name: c_t9_eg_pl_quicksand
+Base Asset Name: bullitt_iw9

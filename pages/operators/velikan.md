@@ -1,12 +1,12 @@
 ---
-layout: operator-zeyna
+layout: operator-velikan
 menu: true
-date: '2021-08-11 01:53:59'
-title: Zeyna
+date: '2023-09-03 19:32:59'
+title: Velikan
 permalink: /operators/zeyna/
 description: Some description.
 ---
 
-# Zeyna
+# Velikan
 
-Base Asset Name: c_t9_fra_pl_dgse
+Base Asset Name: velikan_iw9

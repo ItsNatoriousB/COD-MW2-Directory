@@ -1,12 +1,12 @@
 ---
-layout: operator-stryker
+layout: operator-reyes
 menu: true
-date: '2021-08-19 01:53:59'
-title: Stryker
-permalink: /operators/stryker/
+date: '2023-09-03 19:23:59'
+title: Reyes
+permalink: /operators/reyes/
 description: Some description.
 ---
 
-# Stryker
+# Reyes
 
-Base Asset Name: c_t9_usa_pl_surge
+Base Asset Name: reyes_iw9

@@ -1,12 +1,12 @@
 ---
-layout: operator-woods
+layout: operator-stiletto
 menu: true
-date: '2021-08-09 01:53:59'
-title: Woods
-permalink: /operators/woods/
+date: '2023-09-03 19:27:59'
+title: Stiletto
+permalink: /operators/stiletto/
 description: Some description.
 ---
 
-# Woods
+# Stiletto
 
-Base Asset Name: c_t9_usa_pl_woods
+Base Asset Name: stiletto_iw9

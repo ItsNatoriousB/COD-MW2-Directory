@@ -1,12 +1,12 @@
 ---
-layout: operator-sims
+layout: operator-nikto
 menu: true
-date: '2021-08-09 01:53:59'
-title: Sims
-permalink: /operators/sims/
+date: '2023-09-03 19:20:59'
+title: Nikto
+permalink: /operators/Nikto/
 description: Some description.
 ---
 
-# Sims
+# Nikto
 
-Base Asset Name: c_t9_usa_pl_cia
+Base Asset Name: nikto_iw9

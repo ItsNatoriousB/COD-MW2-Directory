@@ -1,12 +1,12 @@
 ---
-layout: operator-zeyna
+layout: operator-vega
 menu: true
-date: '2021-08-11 01:53:59'
-title: Zeyna
-permalink: /operators/zeyna/
+date: '2023-09-03 19:31:59'
+title: Vega
+permalink: /operators/vega/
 description: Some description.
 ---
 
-# Zeyna
+# Vega
 
-Base Asset Name: c_t9_fra_pl_dgse
+Base Asset Name: vega_iw9 and blair_iw9
