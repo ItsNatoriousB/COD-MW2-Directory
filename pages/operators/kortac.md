@@ -1,12 +1,12 @@
 ---
-layout: operator-powers
+layout: operator-kortac
 menu: true
-date: '2021-08-09 01:53:59'
-title: Powers
-permalink: /operators/powers/
+date: '2021-09-03 21:06:59'
+title: Kortac
+permalink: /operators/kortac/
 description: Some description.
 ---
 
-# Powers
+# Kortac
 
-Base Asset Name: c_t9_gen_pl_starter5
+Base Asset Name: _iw9__

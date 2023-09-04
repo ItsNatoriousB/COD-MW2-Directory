@@ -1,12 +1,12 @@
 ---
-layout: operator-zeyna
+layout: operator-specgru
 menu: true
 date: '2021-08-11 01:53:59'
-title: Zeyna
-permalink: /operators/zeyna/
+title: Specgru
+permalink: /operators/zpecgru/
 description: Some description.
 ---
 
-# Zeyna
+# Specgru
 
-Base Asset Name: c_t9_fra_pl_dgse
+Base Asset Name: _iw9__
