@@ -9,5 +9,5 @@ description: Some description.
 
 # Zero
 
-Base Name: zero_iw9
-Alt Name: jinn_iw9  
+Base Name: zero_iw9  
+Alt Name: jinn_iw9
