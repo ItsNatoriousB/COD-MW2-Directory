@@ -9,4 +9,5 @@ description: Some description.
 
 # Gus
 
-Base Asset Name: gus_iw9 or cat_iw9
+Base Name: gus_iw9  
+Alt Name: cat_iw9

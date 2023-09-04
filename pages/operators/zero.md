@@ -9,4 +9,5 @@ description: Some description.
 
 # Zero
 
-Base Asset Name: jinn_iw9 and zero_iw9
+Base Name: zero_iw9
+Alt Name: jinn_iw9  

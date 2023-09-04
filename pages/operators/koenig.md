@@ -9,4 +9,5 @@ description: Some description.
 
 # Koenig
 
-Base Asset Name: koenig_iw9
+Base Name: koenig_iw9  
+Alt Name: kilgore_iw9

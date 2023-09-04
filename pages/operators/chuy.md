@@ -9,4 +9,5 @@ description: Some description.
 
 # Chuy
 
-Base Asset Name: chuy_iw9 or chili_iw9
+Base Name: chuy_iw9  
+Alt Name: chili_iw9

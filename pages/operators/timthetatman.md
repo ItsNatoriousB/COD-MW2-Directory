@@ -7,6 +7,6 @@ permalink: /operators/timethetatman/
 description: Some description.
 ---
 
-# Time The Tatman
+# Tim The Tatman
 
 Base Asset Name: timethetatman_iw9
