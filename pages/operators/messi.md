@@ -9,4 +9,4 @@ description: Some description.
 
 # Messi
 
-Base Asset Name: Messi_iw9
+Base Asset Name: messi_iw9
