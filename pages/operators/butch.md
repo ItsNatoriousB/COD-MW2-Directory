@@ -1,12 +1,12 @@
 ---
 layout: operator-butch
 menu: true
-date: '2021-08-11 01:53:59'
+date: '2023-09-04 12:43:59'
 title: Butch
 permalink: /operators/butch/
 description: Some description.
 ---
 
-# Bulldozer
+# Butch
 
 Base Asset Name: freedom_iw9

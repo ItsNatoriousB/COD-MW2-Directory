@@ -9,4 +9,5 @@ description: Some description.
 
 # Izzy
 
-Base Asset Name: neotokyo_iw9
+Head: neotokyo_iw9  
+Body: anime_iw9
