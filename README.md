@@ -14,4 +14,5 @@ Please, don't hesitate to create an issue.
 
 ## Donation
 
-Was the directory usefuL?? Buy me a beer 😁🍺
+Was the directory usefuL?? Buy me a cup of coffee.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
