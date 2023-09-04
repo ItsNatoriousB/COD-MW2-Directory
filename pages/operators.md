@@ -9,4 +9,5 @@ description: Some description.
 
 # Operators
 
-Page for all operators
+Links are not clickable and 404 re-directs are normal.  
+Hover your mouse over the longer names to reveal them.
