@@ -7,6 +7,6 @@ permalink: /operators/zimo/
 description: Some description.
 ---
 
-# Zijmo
+# Zimmo
 
 Base Asset Name: zimo_iw9

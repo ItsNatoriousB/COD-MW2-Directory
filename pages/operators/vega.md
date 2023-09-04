@@ -9,4 +9,5 @@ description: Some description.
 
 # Vega
 
-Base Asset Name: vega_iw9 and blair_iw9
+Base Asset Name: vega_iw9  
+Body: blair_iw9

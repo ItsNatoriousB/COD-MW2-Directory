@@ -3,7 +3,7 @@ layout: operator-velikan
 menu: true
 date: '2023-09-03 19:32:59'
 title: Velikan
-permalink: /operators/zeyna/
+permalink: /operators/velikan/
 description: Some description.
 ---
 
