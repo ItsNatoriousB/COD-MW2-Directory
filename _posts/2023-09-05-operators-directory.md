@@ -6,11 +6,11 @@ subtitle: "Operator Directory"
 description: >-
   "Operator Directory"
 image: >-
-  https://images.weserv.nl/?url=itsnatoriousb.github.io//COD-MW2-Directory/assets/img/farm_18_general_action-01.png&output=png&q=100
+  https://itsnatoriousb.github.io//COD-MW2-Directory/assets/img/farm_18_general_action-01.png
 optimized_image: >- 
   https://images.weserv.nl/?url=itsnatoriousb.github.io//COD-MW2-Directory/assets/img/farm_18_general_action-01.png&output=png&q=100
 featured_image: >-
-  https://images.weserv.nl/?url=itsnatoriousb.github.io//COD-MW2-Directory/assets/img/farm_18_general_action-01.png&output=png&q=100
+  https://itsnatoriousb.github.io//COD-MW2-Directory/assets/img/farm_18_general_action-01.png
 category: assets
 tags:
   - weapons
