@@ -36,4 +36,4 @@ type: custom_content
 
 Was the directory useful? Buy me a cup of coffee.
 
-<a href="https://ko-fi.com/I2I0FWZ2Z" target="_blank"><img class="kofi" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
+<a href="https://ko-fi.com/I2I0FWZ2Z" target="_blank"><img class="kofi" style="text-align:center;" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
