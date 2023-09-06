@@ -31,7 +31,7 @@ type: custom_content
 
 # Directory
 
-<a href="https://itsnatoriousb.github.io/COD-MW2-Directory/weapons/">Weapons</a>
+<a href="https://itsnatoriousb.github.io/COD-MW2-Directory/operators/">Operators</a>
 
 Was the directory usefuL? Buy me a cup of coffee.
 
