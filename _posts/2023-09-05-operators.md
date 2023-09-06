@@ -28,9 +28,11 @@ version: v1.0.0.0
 game: "Call of Duty: Modern Warfare (2022)"
 type: custom_content
 ---
-Was the directory usefuL? Buy me a cup of coffee.
-(https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
 
 # Directory
 
 <a href="https://itsnatoriousb.github.io/COD-MW2-Directory/weapons/">Weapons</a>
+
+Was the directory usefuL? Buy me a cup of coffee.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
