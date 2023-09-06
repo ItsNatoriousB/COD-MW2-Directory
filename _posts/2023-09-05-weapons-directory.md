@@ -5,7 +5,7 @@ datatable: true
 title: MW2 Weapons
 subtitle: "Weapon Names"
 description: >-
-  "Direction for Weapon Names"
+  "Directory for Weapon Names"
 image: >-
   https://images.weserv.nl/?url=itsnatoriousb.github.io//COD-MW2-Directory/assets/img/domination_mercado-01.png&output=png&q=100
 optimized_image: >- 
@@ -36,4 +36,4 @@ type: custom_content
 
 Was the directory useful? Buy me a cup of coffee.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
+<a href="https://ko-fi.com/I2I0FWZ2Z" target="_blank"><img class="kofi" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>

@@ -16,8 +16,8 @@ menu:
     url: /operators
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+    - title: Weapons
+    url: /weapons
 email: itsnatoriousb@gmail.com
 #disqus_username: disqus_username
 
