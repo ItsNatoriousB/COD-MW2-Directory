@@ -32,5 +32,5 @@ type: custom_content
 # Directory
 Was the directory usefuL? Buy me a cup of coffee.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
+(https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
 <a href="https://itsnatoriousb.github.io/COD-MW2-Directory/weapons/">Weapons</a>
