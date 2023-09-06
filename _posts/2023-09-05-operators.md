@@ -30,6 +30,7 @@ type: custom_content
 ---
 Was the directory usefuL? Buy me a cup of coffee.
 (https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
+
 # Directory
 
 <a href="https://itsnatoriousb.github.io/COD-MW2-Directory/weapons/">Weapons</a>
