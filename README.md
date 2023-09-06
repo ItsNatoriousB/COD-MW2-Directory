@@ -14,6 +14,6 @@ Please, don't hesitate to create an issue.
 
 ## Tips
 
-Was the directory usefuLl? Buy me a cup of coffee.
+Was the directory usefuL? Buy me a cup of coffee.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
