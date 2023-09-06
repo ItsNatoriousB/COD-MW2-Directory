@@ -1,16 +1,16 @@
 ---
-date: 2021-08-19 08:08:00
+date: 2023-09-01 08:08:00
 layout: post
 title: Operator Directory
 subtitle: "Operator Directory"
 description: >-
   "Testing for all lists"
 image: >-
-  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
+  https://images.weserv.nl/?url=itsnatoriousb.github.io//COD-MW2-Directory/assets/img/farm_18_general_action-01.png&output=png&q=100
 optimized_image: >- 
-  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
+  https://images.weserv.nl/?url=itsnatoriousb.github.io//COD-MW2-Directory/assets/img/farm_18_general_action-01.png&output=png&q=100
 featured_image: >-
-  https://res.cloudinary.com/natoriousb/image/upload/v1605925653/headers/Multiplayer_Screenshot_12_jct9fr.jpg
+  https://images.weserv.nl/?url=itsnatoriousb.github.io//COD-MW2-Directory/assets/img/farm_18_general_action-01.png&output=png&q=100
 category: assets
 tags:
   - operators
@@ -25,10 +25,10 @@ credits:
   - Raven
   - Trey Arch
 version: v1.0.0.0
-game: "Call of Duty: Black Ops Cold War (2020)"
+game: "Call of Duty: Modern Warfare (2022)"
 type: custom_content
 ---
 
 # Directory
 
-<a href="https://itsnatoriousb.github.io/BlackOpsColdWar-Asset-Directory/operators/">Operators</a>
+<a href="https://itsnatoriousb.github.io/COD-MW2-Directory/operators/">Operators</a>

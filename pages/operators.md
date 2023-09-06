@@ -1,10 +1,11 @@
 ---
 layout: operators-page
 menu: true
-date: '2021-08-03 01:53:59'
+date: '2023-09-04 13:27:59'
 title: Operators
 permalink: /operators/
-description: Some description.
+description: COD MW2 Directory | Find asset names for Operators and
+Weapons
 ---
 
 # Operators
