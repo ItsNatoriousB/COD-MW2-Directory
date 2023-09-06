@@ -1,7 +1,7 @@
 ---
 layout: operator-kortac
 menu: true
-date: '2021-09-03 21:06:59'
+date: '2023-09-05 20:30:59'
 title: Kortac
 permalink: /operators/kortac/
 description: Some description.
