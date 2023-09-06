@@ -35,6 +35,6 @@ Hover your mouse over the longer names to reveal the names.
 
 <a href="https://itsnatoriousb.github.io/COD-MW2-Directory/operators/">Operators</a>
 
-If you find the directory usefuL, buy me a cup of coffee.
+If you find the directory useful, buy me a cup of coffee.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
