@@ -4,7 +4,7 @@ layout: post
 title: Operators
 subtitle: "Operator Directory"
 description: >-
-  "Testing for all lists"
+  "Operator Directory"
 image: >-
   https://images.weserv.nl/?url=itsnatoriousb.github.io//COD-MW2-Directory/assets/img/domination_mercado-01.png&output=png&q=100
 optimized_image: >- 
@@ -28,6 +28,10 @@ version: v1.0.0.0
 game: "Call of Duty: Modern Warfare (2022)"
 type: custom_content
 ---
+
+Was the directory usefuL? Buy me a cup of coffee.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I0FWZ2Z)
 
 # Directory
 
